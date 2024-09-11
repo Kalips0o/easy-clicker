@@ -1,25 +1,28 @@
 # Ninja Clicker Bot for Telegram
 
-**Ninja Clicker** — это простой кликер-бот для Telegram, где пользователи могут кликать по изображению, накапливать очки и тратить энергию. Бот предлагает уникальный игровой процесс с бонусами, восстановлением энергии и попыток, а также визуальными эффектами.
+**Ninja Clicker** is a simple clicker bot for Telegram, where users can click on images, accumulate points, and spend energy. The bot offers a unique gameplay experience with bonuses, energy restoration, attempt recovery, and visual effects.
 
-## Ссылка на бота
+## Bot Link
 https://t.me/Ninja_Clicker_bot
 
-## Основные функции
-- 🔥 **Накопление очков**: Кликайте и зарабатывайте очки, тратя энергию.
-- 🚀 **Система буста**: Увеличивайте количество очков с помощью активации сюрикена.
-- ⚡️ **Восстановление энергии**: Энергия восстанавливается автоматически, 1000 единиц каждые 5 минут.
-- 🐸 **Смена изображений**: Открывайте новые уровни с разными персонажами по мере накопления очков.
+## Main Features
+- 🔥 **Point Accumulation**: Click and earn points while spending energy.
+- 🚀 **Boost System**: Increase points by activating the shuriken boost.
+- ⚡️ **Energy Restoration**: Energy restores automatically—1000 units every 5 minutes.
+- 🐸 **Image Unlocking**: Unlock new levels with different characters as you accumulate more points.
 
-## Как играть
-1. Запустите бота и начните кликать по изображению.
-2. Накопление очков зависит от текущего уровня энергии.
-3. Используйте сюрикен, чтобы временно активировать буст и зарабатывать больше очков.
-4. Смотрите за восстановлением энергии, чтобы продолжать играть!
+## How to Play
+1. Start the bot and begin clicking on the image.
+2. Points accumulate based on your current energy level.
+3. Use the shuriken to temporarily activate a boost and earn more points.
+4. Watch your energy restore to continue playing!
 
-## Технологии
-- **HTML** — для разметки интерфейса.
-- **CSS** — для стилизации элементов и анимации.
-- **JavaScript** — для игровой логики, взаимодействия с пользователем, управления энергией и бустами.
-- **LocalStorage** — для сохранения прогресса пользователя.
+## Technologies
+- **HTML** — for interface structure.
+- **CSS** — for styling and animations.
+- **JavaScript** — for game logic, user interaction, energy management, and boosts.
+- **LocalStorage** — to save user progress.
+- **Firebase Hosting** — for deploying and hosting the application on the web, providing a fast and secure environment.
 
+## Hosting on Firebase
+The Ninja Clicker Bot is hosted on **Firebase**, offering seamless deployment and scalable hosting. Firebase allows the game to run smoothly across multiple devices and ensures that updates are easily managed without any downtime.
